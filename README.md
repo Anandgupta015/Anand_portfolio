@@ -6,7 +6,7 @@ A modern, responsive **personal portfolio website** showcasing my skills, projec
 
 ## 🚀 Live Demo
 
-🔗 https://expense-tracker-delta-smoky-80.vercel.app
+🔗 https://anand-portfolio-green.vercel.app/
 
 ---
 
